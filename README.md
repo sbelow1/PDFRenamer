@@ -1,8 +1,8 @@
 # PDFRenamer
 Advanced Software Engineering PDF Renamer Project
 
-Link to jar file on Google OneDrive:
-https://raidermailwright-my.sharepoint.com/personal/below_3_wright_edu/_layouts/15/guestaccess.aspx?guestaccesstoken=%2fbZAr%2fyKUZF1Dp%2b2rx6%2bz2c9%2f3aWP%2fYMVkmwL5SgQgY%3d&docid=2_1e18a614a460e46aa88616e9558c8d29c&rev=1
+Link to jar file and pdf resources on Google OneDrive:
+https://raidermailwright-my.sharepoint.com/personal/below_3_wright_edu/_layouts/15/guestaccess.aspx?guestaccesstoken=U1PxL%2f57yHMYw5y9JG8%2fM28wmn7BlNNQrdOEKvyzzuY%3d&folderid=2_1dfc103a23c91436d91e9fd4e031dcdbe&rev=1
 
 Command to run Domain Modelling and extract the volume and paper type:
 
